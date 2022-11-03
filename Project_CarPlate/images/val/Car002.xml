@@ -1,0 +1,36 @@
+<annotation>
+    <folder>val</folder>
+    <filename>Car002.jpeg</filename>
+    <size>
+        <width>1152</width>
+        <height>2048</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>carplate</name>
+        <difficult>0</difficult>
+        <rotated_box>
+            <cx>699.920105</cx>
+            <cy>1000.358704</cy>
+            <width>351.056793</width>
+            <height>130.270248</height>
+            <rot>0.251276</rot>
+        </rotated_box>
+        <polygon>
+            <x1>546.457290</x1>
+            <y1>1106.499874</y1>
+            <x2>885.513006</x2>
+            <y2>1019.431116</y2>
+            <x3>853.382821</x3>
+            <y3>894.217504</y3>
+            <x4>514.327104</x4>
+            <y4>981.286292</y4>
+        </polygon>
+        <bndbox>
+            <xmin>514.327087</xmin>
+            <ymin>894.217529</ymin>
+            <xmax>885.513000</xmax>
+            <ymax>1106.499878</ymax>
+        </bndbox>
+    </object>
+</annotation>
