@@ -1,0 +1,19 @@
+<annotation>
+    <folder>val</folder>
+    <filename>Car007.jpeg</filename>
+    <size>
+        <width>1280</width>
+        <height>960</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>carplate</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>529.586731</xmin>
+            <ymin>632.341675</ymin>
+            <xmax>755.410156</xmax>
+            <ymax>700.270813</ymax>
+        </bndbox>
+    </object>
+</annotation>

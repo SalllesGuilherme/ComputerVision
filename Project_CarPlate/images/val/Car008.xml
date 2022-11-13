@@ -1,6 +1,6 @@
 <annotation>
     <folder>val</folder>
-    <filename>Car004.jpeg</filename>
+    <filename>Car008.jpeg</filename>
     <size>
         <width>1280</width>
         <height>960</height>
@@ -10,30 +10,30 @@
         <name>carplate</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>126.901566</xmin>
-            <ymin>589.386475</ymin>
-            <xmax>189.852341</xmax>
-            <ymax>622.352112</ymax>
+            <xmin>90.929688</xmin>
+            <ymin>639.334351</ymin>
+            <xmax>179.860153</xmax>
+            <ymax>667.305176</ymax>
         </bndbox>
     </object>
     <object>
         <name>carplate</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>831.350769</xmin>
-            <ymin>656.316650</ymin>
-            <xmax>943.263306</xmax>
-            <ymax>701.269775</ymax>
+            <xmin>1044.184448</xmin>
+            <ymin>542.435425</ymin>
+            <xmax>1197.064819</xmax>
+            <ymax>587.388550</ymax>
         </bndbox>
     </object>
     <object>
         <name>carplate</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>504.606262</xmin>
-            <ymin>605.369812</ymin>
-            <xmax>580.546875</xmax>
-            <ymax>640.333313</ymax>
+            <xmin>520.593750</xmin>
+            <ymin>628.345825</ymin>
+            <xmax>639.500793</xmax>
+            <ymax>662.310425</ymax>
         </bndbox>
     </object>
 </annotation>
